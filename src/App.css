@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+/* .App > h1 {
+  text-align: left;
+  margin-left: 24.70%;
+} */
+
+.App > input {
+  /* width: 50%; */
+  height: 3rem;
+  font-size: 2rem;
+  padding-left: 1rem;
+}
+
+p {
+  margin: 10px;
+  font-size: 2rem;
+}
+
+
