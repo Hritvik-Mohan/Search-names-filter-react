@@ -1,4 +1,5 @@
-# [React App with a search filter](https://searchfilterreactapp.netlify.app/)
+# <a href="https://searchfilterreactapp.netlify.app/" target=”_blank”>React App with a search filter</a>
+
 
 First install all the dependencies 
 ```
